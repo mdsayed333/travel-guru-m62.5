@@ -1,0 +1,12 @@
+.social-button{
+    display: flex;
+    width: 60%;
+    align-items: center;
+    border-radius: 20px;
+    
+}
+.orDiv{
+    height: 1px;
+    width: 50%;
+    background-color: gray;
+}

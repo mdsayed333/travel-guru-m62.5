@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+#navbar-link a{
+    color: rgba(236, 229, 229, 0.926);
+}
+#navbar-link a:hover{
+    color: white;
+}
+.header-container button{
+    color: rgba(236, 229, 229, 0.926);
+}
